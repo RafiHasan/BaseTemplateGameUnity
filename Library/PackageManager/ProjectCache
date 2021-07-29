@@ -5,21 +5,367 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637631669445848355
-    m_Hash: 311737014
+      ticks: 637631679288634392
+    m_Hash: 2395146024
   m_LockFileStatus:
     m_FilePath: C:/Projects/UnityProjects/BaseTemplateGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637631669445958046
-    m_Hash: 1179508053
+      ticks: 637631679288704256
+    m_Hash: 1823953434
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.unity.burst@1.4.8
+      testable: 0
+      isDirectDependency: 1
+      version: 1.4.8
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.burst@1.4.8
+      assetPath: Packages/com.unity.burst
+      name: com.unity.burst
+      displayName: Burst
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Burst is a compiler that translates from IL/.NET bytecode to highly
+        optimized native code using LLVM.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.2.4-preview.5
+        - 0.2.4-preview.7
+        - 0.2.4-preview.11
+        - 0.2.4-preview.12
+        - 0.2.4-preview.13
+        - 0.2.4-preview.14
+        - 0.2.4-preview.15
+        - 0.2.4-preview.16
+        - 0.2.4-preview.17
+        - 0.2.4-preview.18
+        - 0.2.4-preview.19
+        - 0.2.4-preview.20
+        - 0.2.4-preview.21
+        - 0.2.4-preview.22
+        - 0.2.4-preview.23
+        - 0.2.4-preview.24
+        - 0.2.4-preview.25
+        - 0.2.4-preview.30
+        - 0.2.4-preview.31
+        - 0.2.4-preview.33
+        - 0.2.4-preview.34
+        - 0.2.4-preview.37
+        - 0.2.4-preview.41
+        - 0.2.4-preview.45
+        - 0.2.4-preview.48
+        - 0.2.4-preview.50
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.0-preview.4
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3-preview.3
+        - 1.2.0-preview.1
+        - 1.2.0-preview.5
+        - 1.2.0-preview.6
+        - 1.2.0-preview.8
+        - 1.2.0-preview.9
+        - 1.2.0-preview.10
+        - 1.2.0-preview.11
+        - 1.2.0-preview.12
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.4
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0-preview.8
+        - 1.3.0-preview.9
+        - 1.3.0-preview.10
+        - 1.3.0-preview.11
+        - 1.3.0-preview.12
+        - 1.3.0-preview.13
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0-pre.1
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.1-pre.1
+        - 1.4.1-pre.2
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4-preview.1
+        - 1.4.4-preview.2
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.3
+        - 1.5.0-pre.4
+        - 1.5.0-pre.5
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-pre.2
+        compatible:
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3-preview.3
+        - 1.2.0-preview.1
+        - 1.2.0-preview.5
+        - 1.2.0-preview.6
+        - 1.2.0-preview.8
+        - 1.2.0-preview.9
+        - 1.2.0-preview.10
+        - 1.2.0-preview.11
+        - 1.2.0-preview.12
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.4
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0-preview.8
+        - 1.3.0-preview.9
+        - 1.3.0-preview.10
+        - 1.3.0-preview.11
+        - 1.3.0-preview.12
+        - 1.3.0-preview.13
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0-pre.1
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.1-pre.1
+        - 1.4.1-pre.2
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4-preview.1
+        - 1.4.4-preview.2
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.3
+        - 1.5.0-pre.4
+        - 1.5.0-pre.5
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-pre.2
+        verified: 1.4.8
+      dependencies:
+      - name: com.unity.mathematics
+        version: 1.2.1
+      resolvedDependencies:
+      - name: com.unity.mathematics
+        version: 1.2.1
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637553986450000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/burst.git
+        revision: dfa8c3f2c7d0be06a2968e115e6fb632535913e7
+        path: 
+    - packageId: com.unity.cinemachine@2.6.5
+      testable: 0
+      isDirectDependency: 1
+      version: 2.6.5
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.cinemachine@2.6.5
+      assetPath: Packages/com.unity.cinemachine
+      name: com.unity.cinemachine
+      displayName: Cinemachine
+      author:
+        name: 
+        email: 
+        url: 
+      category: cinematography
+      type: 
+      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete
+        the Cinemachine asset from your project BEFORE installing this version from
+        the Package Manager."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.11-beta.1
+        - 2.1.12
+        - 2.1.13
+        - 2.2.0
+        - 2.2.7
+        - 2.2.8
+        - 2.2.9
+        - 2.2.10-preview.3
+        - 2.2.10-preview.4
+        - 2.3.1
+        - 2.3.3
+        - 2.3.4
+        - 2.3.5-preview.3
+        - 2.4.0-preview.3
+        - 2.4.0-preview.4
+        - 2.4.0-preview.6
+        - 2.4.0-preview.7
+        - 2.4.0-preview.8
+        - 2.4.0-preview.9
+        - 2.4.0-preview.10
+        - 2.4.0
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        compatible:
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        verified: 2.6.5
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - camera
+      - follow
+      - rig
+      - fps
+      - cinematography
+      - aim
+      - orbit
+      - cutscene
+      - cinematic
+      - collision
+      - freelook
+      - cinemachine
+      - compose
+      - composition
+      - dolly
+      - track
+      - clearshot
+      - noise
+      - framing
+      - handheld
+      - lens
+      - impulse
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637578244570000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.cinemachine.git
+        revision: c12b97ec35ab5091c685e729b76980a69a6d39a1
+        path: 
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
       isDirectDependency: 1
@@ -121,6 +467,112 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: fa825106f349f996acff22f718845eab46ca2d7c
+        path: 
+    - packageId: com.unity.formats.fbx@4.1.0
+      testable: 0
+      isDirectDependency: 1
+      version: 4.1.0
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.formats.fbx@4.1.0
+      assetPath: Packages/com.unity.formats.fbx
+      name: com.unity.formats.fbx
+      displayName: FBX Exporter
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "The Unity FBX Exporter package makes it easy to send geometry
+        and animation to any application that supports the FBX format and send them
+        back to Unity with minimal effort.\n\nIn particular, this round-trip workflow
+        enables you to export Unity Scenes to FBX files, import them into Autodesk\xAE
+        Maya\xAE, Autodesk\xAE Maya LT\u2122, or Autodesk\xAE 3ds Max\xAE using an
+        artist-friendly interface, export Unity-ready FBX geometry and animation,
+        and safely merge your changes back into those Assets to continue your work
+        in Unity."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.1-preview.2
+        - 2.0.1-preview.3
+        - 2.0.1-preview.4
+        - 2.0.1-preview.5
+        - 2.0.1-preview.11
+        - 2.0.2-preview.1
+        - 2.0.3-preview.3
+        - 3.0.0-preview.2
+        - 3.0.1-preview.2
+        - 3.1.0-preview.1
+        - 3.2.0-preview.2
+        - 3.2.1-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.4
+        - 4.0.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        compatible:
+        - 2.0.1-preview.2
+        - 2.0.1-preview.4
+        - 2.0.1-preview.5
+        - 2.0.1-preview.11
+        - 2.0.2-preview.1
+        - 2.0.3-preview.3
+        - 3.0.0-preview.2
+        - 3.0.1-preview.2
+        - 3.1.0-preview.1
+        - 3.2.0-preview.2
+        - 3.2.1-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.4
+        - 4.0.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        verified: 
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.5.2
+      - name: com.autodesk.fbx
+        version: 4.1.0
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.5.2
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      - name: com.autodesk.fbx
+        version: 4.1.0
+      keywords:
+      - fbx
+      - animation
+      - modeling
+      - maya
+      - max
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637619316520000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.formats.fbx.git
+        revision: d2ed3e81507345f91fe2580b2a5594533ec5f922
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -385,6 +837,173 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.polybrush@1.0.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.2
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.polybrush@1.0.2
+      assetPath: Packages/com.unity.polybrush
+      name: com.unity.polybrush
+      displayName: Polybrush
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Mesh painting, sculpting, and geo-scattering tool for Unity.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.13
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0
+        - 1.0.1-preview.1
+        - 1.0.1-preview.2
+        - 1.0.1
+        - 1.0.2-preview.1
+        - 1.0.2-preview.4
+        - 1.0.2
+        - 1.1.0-pre.1
+        - 1.1.2
+        compatible:
+        - 1.0.0-preview.13
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0
+        - 1.0.1-preview.1
+        - 1.0.1-preview.2
+        - 1.0.1
+        - 1.0.2-preview.1
+        - 1.0.2-preview.4
+        - 1.0.2
+        - 1.1.0-pre.1
+        - 1.1.2
+        verified: 1.0.2
+      dependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      resolvedDependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      keywords:
+      - modeling
+      - sculpting
+      - push
+      - clay
+      - terrain
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637327822110000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/polybrush.git
+        revision: 55f0abdbad1d1c08e999a55237499f00b0ce91b9
+        path: 
+    - packageId: com.unity.postprocessing@3.1.1
+      testable: 0
+      isDirectDependency: 1
+      version: 3.1.1
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.postprocessing@3.1.1
+      assetPath: Packages/com.unity.postprocessing
+      name: com.unity.postprocessing
+      displayName: Post Processing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The post-processing stack (v2) comes with a collection of effects
+        and image filters you can apply to your cameras to improve the visuals of
+        your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.7
+        - 0.1.8
+        - 2.0.0-beta
+        - 2.0.1-beta
+        - 2.0.2-preview
+        - 2.0.3-preview
+        - 2.0.5-preview
+        - 2.0.7-preview
+        - 2.0.8-preview
+        - 2.0.9-preview
+        - 2.0.10-preview
+        - 2.0.11-preview
+        - 2.0.12-preview
+        - 2.0.13-preview
+        - 2.0.14-preview
+        - 2.0.15-preview
+        - 2.0.16-preview
+        - 2.0.17-preview
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        - 2.1.7
+        - 2.2.1
+        - 2.2.2
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        compatible:
+        - 2.3.0
+        - 3.0.1
+        - 3.0.3
+        - 3.1.0
+        - 3.1.1
+        verified: 3.1.1
+      dependencies:
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637576678760000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Graphics.git
+        revision: 075b452f2c4bf910a168632b3cedbd6835477ddd
+        path: 
     - packageId: com.unity.probuilder@4.5.2
       testable: 0
       isDirectDependency: 1
@@ -525,6 +1144,232 @@ m_PackageAssets:
         url: https://github.com/Unity-Technologies/com.unity.probuilder.git
         revision: 27f52072e5f94638d1f81bc53df38e59d5bac785
         path: 
+    - packageId: com.unity.remote-config@1.4.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.4.0
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.remote-config@1.4.0
+      assetPath: Packages/com.unity.remote-config
+      name: com.unity.remote-config
+      displayName: Remote Config
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Remote Config is a cloud service that lets you tune and customize
+        your app over the air without requiring an update to your game.  You can
+        use rules to enable or disable features, change the difficulty of your game
+        or run special events to target specific audiences.  Rules control when updates
+        are applied and to whom, while Unity manages delivery of your game content
+        with minimal performance impact. \n\nRemote Config can be configured via
+        the editor or through our public API\u2019s.  Functionality includes: \n-
+        Release new features without deploying code:\n   - Feature flagging\n   -
+        Staged Rollouts\n   - Kill switch functionality\n   - Start & End Date\n  
+        - Enable & disable rules\n- Personalized real-time segmentation with custom
+        attributes\n   - Custom conditions for applying setting variants\n   - Device,
+        user, game and other arbitrary attributes supporting\n- Reporting\n   - Tracing
+        ID for decorating analytics events"
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.3.0-preview.4
+        - 0.3.1-preview.2
+        - 0.3.2-preview
+        - 1.0.0-preview
+        - 1.0.4-preview.2
+        - 1.0.5-preview
+        - 1.0.6-preview
+        - 1.0.6
+        - 1.0.7-preview
+        - 1.0.8-preview
+        - 1.0.8-preview.1
+        - 1.0.8
+        - 1.0.9-preview
+        - 1.0.9-preview.1
+        - 1.0.9
+        - 1.0.10-preview.1
+        - 1.1.0-preview
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.0-preview.4
+        - 1.2.0-preview
+        - 1.2.0-preview.1
+        - 1.2.0-preview.2
+        - 1.2.0-preview.3
+        - 1.2.0-preview.4
+        - 1.2.0-preview.5
+        - 1.2.1-preview
+        - 1.2.1
+        - 1.2.2-preview.1
+        - 1.2.2
+        - 1.2.3-preview.1
+        - 1.2.3-preview.2
+        - 1.2.3
+        - 1.2.4-preview.2
+        - 1.2.4-preview.3
+        - 1.2.4-preview.4
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.1-preview.1
+        - 1.3.1-preview.2
+        - 1.3.1-preview.3
+        - 1.3.1-preview.4
+        - 1.3.2-preview.1
+        - 1.3.2-preview.2
+        - 1.3.2-preview.3
+        - 1.3.2-preview.4
+        - 1.3.2-preview.5
+        - 1.3.2-preview.6
+        - 1.3.2-preview.7
+        - 1.3.2-preview.8
+        - 1.3.2-preview.9
+        - 1.3.2-preview.10
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1
+        - 2.0.2-exp.1
+        - 2.1.0-exp.1
+        - 2.1.0-exp.2
+        - 2.1.1-exp.1
+        compatible:
+        - 0.3.0-preview.4
+        - 0.3.1-preview.2
+        - 0.3.2-preview
+        - 1.0.0-preview
+        - 1.0.4-preview.2
+        - 1.0.5-preview
+        - 1.0.6-preview
+        - 1.0.6
+        - 1.0.7-preview
+        - 1.0.8-preview
+        - 1.0.8-preview.1
+        - 1.0.8
+        - 1.0.9-preview
+        - 1.0.9-preview.1
+        - 1.0.9
+        - 1.0.10-preview.1
+        - 1.1.0-preview
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.1.0-preview.3
+        - 1.1.0-preview.4
+        - 1.2.0-preview
+        - 1.2.0-preview.1
+        - 1.2.0-preview.2
+        - 1.2.0-preview.3
+        - 1.2.0-preview.4
+        - 1.2.0-preview.5
+        - 1.2.1-preview
+        - 1.2.1
+        - 1.2.2-preview.1
+        - 1.2.2
+        - 1.2.3-preview.1
+        - 1.2.3-preview.2
+        - 1.2.3
+        - 1.2.4-preview.2
+        - 1.2.4-preview.3
+        - 1.2.4-preview.4
+        - 1.3.0-preview.1
+        - 1.3.0-preview.2
+        - 1.3.1-preview.1
+        - 1.3.1-preview.2
+        - 1.3.1-preview.3
+        - 1.3.1-preview.4
+        - 1.3.2-preview.1
+        - 1.3.2-preview.2
+        - 1.3.2-preview.3
+        - 1.3.2-preview.4
+        - 1.3.2-preview.5
+        - 1.3.2-preview.6
+        - 1.3.2-preview.7
+        - 1.3.2-preview.8
+        - 1.3.2-preview.9
+        - 1.3.2-preview.10
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.4
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1
+        - 2.0.2-exp.1
+        - 2.1.0-exp.1
+        - 2.1.0-exp.2
+        - 2.1.1-exp.1
+        verified: 1.4.0
+      dependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      resolvedDependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      keywords:
+      - remote
+      - config
+      - configuration
+      - settings
+      - remote settings
+      - remote config
+      - firebase
+      - staged rollouts
+      - feature flagging
+      - roll-out
+      - adapt
+      - tune
+      - tailor
+      - test
+      - experiment
+      - experimentation
+      - app update
+      - taget
+      - targeting
+      - segment
+      - segmentation
+      - segmenting
+      - override
+      - rules
+      - variants
+      - variation
+      - parameter
+      - condtions
+      - conditional
+      - continuous delivery
+      - deploy
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637393356210000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.remote-settings.git
+        revision: 198ff0e9450238010e53c48701f9c52cae9ee426
+        path: 
     - packageId: com.unity.render-pipelines.universal@10.4.0
       testable: 0
       isDirectDependency: 1
@@ -601,7 +1446,7 @@ m_PackageAssets:
         version: 10.4.0
       resolvedDependencies:
       - name: com.unity.mathematics
-        version: 1.1.0
+        version: 1.2.1
       - name: com.unity.render-pipelines.core
         version: 10.4.0
       - name: com.unity.ugui
@@ -733,12 +1578,12 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
         path: 
-    - packageId: com.unity.textmeshpro@3.0.4
+    - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
       isDirectDependency: 1
-      version: 3.0.4
+      version: 3.0.6
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.textmeshpro@3.0.4
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -884,164 +1729,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637492944820000000
+      datePublishedTicks: 637547111200000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: e2f8dffb26de9a130d5b2140d83891d9a7825330
-        path: 
-    - packageId: com.unity.timeline@1.4.7
-      testable: 0
-      isDirectDependency: 1
-      version: 1.4.7
-      source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.timeline@1.4.7
-      assetPath: Packages/com.unity.timeline
-      name: com.unity.timeline
-      displayName: Timeline
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Use Unity Timeline to create cinematic content, game-play sequences,
-        audio sequences, and complex particle effects.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.2.4
-        - 1.2.5
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.10
-        - 1.2.11
-        - 1.2.12
-        - 1.2.13
-        - 1.2.14
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17
-        - 1.2.18
-        - 1.3.0-preview.2
-        - 1.3.0-preview.3
-        - 1.3.0-preview.5
-        - 1.3.0-preview.6
-        - 1.3.0-preview.7
-        - 1.3.0
-        - 1.3.1
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.4.0-preview.1
-        - 1.4.0-preview.2
-        - 1.4.0-preview.3
-        - 1.4.0-preview.5
-        - 1.4.0-preview.6
-        - 1.4.0-preview.7
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.4.7
-        - 1.4.8
-        - 1.5.0-pre.2
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.5.4
-        - 1.5.5
-        - 1.5.6
-        - 1.6.0-pre.1
-        - 1.6.0-pre.3
-        - 1.6.0-pre.4
-        - 1.6.0-pre.5
-        - 1.6.1
-        compatible:
-        - 1.4.7
-        - 1.4.8
-        - 1.5.0-pre.2
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.5.4
-        - 1.5.5
-        - 1.5.6
-        - 1.6.0-pre.1
-        - 1.6.0-pre.3
-        - 1.6.0-pre.4
-        - 1.6.0-pre.5
-        - 1.6.1
-        verified: 1.4.8
-      dependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
-      keywords:
-      - unity
-      - animation
-      - editor
-      - timeline
-      - tools
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637516874380000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 66f96ddbbc76f565093e1e5e5d3d322d28acc7d7
+        revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
@@ -2909,81 +3603,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-    - packageId: com.unity.mathematics@1.1.0
-      testable: 0
-      isDirectDependency: 0
-      version: 1.1.0
-      source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.mathematics@1.1.0
-      assetPath: Packages/com.unity.mathematics
-      name: com.unity.mathematics
-      displayName: Mathematics
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Unity's C# SIMD math library providing vector types and math functions
-        with a shader like syntax.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
-        - 1.1.0
-        - 1.2.1
-        compatible:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
-        - 1.1.0
-        - 1.2.1
-        verified: 1.2.1
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636984649280000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git@github.com:Unity-Technologies/Unity.Mathematics.git
-        revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
-        path: 
     - packageId: com.unity.render-pipelines.core@10.4.0
       testable: 0
       isDirectDependency: 0
@@ -3295,6 +3914,80 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: e11ddbccf86bcd7ceaae2c0b8646420d2e53cf80
         path: 
+    - packageId: com.unity.nuget.newtonsoft-json@2.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 2.0.0
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      assetPath: Packages/com.unity.nuget.newtonsoft-json
+      name: com.unity.nuget.newtonsoft-json
+      displayName: Newtonsoft Json
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
+        Currently synced to version 12.0.2.
+
+
+        This package is used for advanced
+        json serialization and deserialization. Most Unity users will be better suited
+        using the existing json tools built into Unity.
+
+        To avoid assembly
+        clashes, please use this package if you intend to use Newtonsoft Json.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
+        compatible:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
+        verified: 2.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637237898320000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+        revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
+        path: 
     - packageId: com.unity.settings-manager@1.0.3
       testable: 0
       isDirectDependency: 0
@@ -3352,6 +4045,313 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
         revision: 473664ccba1496294b741cf169740a5d54b3d0b6
+        path: 
+    - packageId: com.unity.timeline@1.5.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.5.2
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.timeline@1.5.2
+      assetPath: Packages/com.unity.timeline
+      name: com.unity.timeline
+      displayName: Timeline
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Use Unity Timeline to create cinematic content, game-play sequences,
+        audio sequences, and complex particle effects.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
+        - 1.2.7
+        - 1.2.9
+        - 1.2.10
+        - 1.2.11
+        - 1.2.12
+        - 1.2.13
+        - 1.2.14
+        - 1.2.15
+        - 1.2.16
+        - 1.2.17
+        - 1.2.18
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0-preview.7
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        compatible:
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        verified: 1.4.8
+      dependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - animation
+      - editor
+      - timeline
+      - tools
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637462521340000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
+        revision: 7bdad7882133452ed8b2cd5bfca556726d3e7a64
+        path: 
+    - packageId: com.autodesk.fbx@4.1.0
+      testable: 0
+      isDirectDependency: 0
+      version: 4.1.0
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.autodesk.fbx@4.1.0
+      assetPath: Packages/com.autodesk.fbx
+      name: com.autodesk.fbx
+      displayName: Autodesk FBX SDK for Unity
+      author:
+        name: Unity
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "This package provides Unity C# bindings to the Autodesk\xAE FBX\xAE
+        SDK."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview
+        - 2.0.0-preview.4
+        - 2.0.0-preview.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.7
+        - 2.0.1-preview.1
+        - 3.0.0-preview.1
+        - 3.0.1-preview.1
+        - 3.1.0-preview.1
+        - 3.1.0-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.1
+        - 4.1.0-pre.1
+        - 4.1.0
+        compatible:
+        - 2.0.0-preview
+        - 2.0.0-preview.4
+        - 2.0.0-preview.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.7
+        - 2.0.1-preview.1
+        - 3.0.0-preview.1
+        - 3.0.1-preview.1
+        - 3.1.0-preview.1
+        - 3.1.0-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.1
+        - 4.1.0-pre.1
+        - 4.1.0
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - fbx
+      - animation
+      - modeling
+      - maya
+      - max
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637619316640000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.autodesk.fbx.git
+        revision: bc9e7804923e64ef9e855089ae11cac62fd540df
+        path: 
+    - packageId: com.unity.mathematics@1.2.1
+      testable: 0
+      isDirectDependency: 0
+      version: 1.2.1
+      source: 1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.mathematics@1.2.1
+      assetPath: Packages/com.unity.mathematics
+      name: com.unity.mathematics
+      displayName: Mathematics
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Unity's C# SIMD math library providing vector types and math functions
+        with a shader like syntax.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
+        - 1.1.0
+        - 1.2.1
+        compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
+        - 1.1.0
+        - 1.2.1
+        verified: 1.2.1
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637324062630000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Unity.Mathematics.git
+        revision: 71412d94b7a0b0fdbb3195a5e6559bf6a761e91a
         path: 
     - packageId: com.unity.searcher@4.3.1
       testable: 0
