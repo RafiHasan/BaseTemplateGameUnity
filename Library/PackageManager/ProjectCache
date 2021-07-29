@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637631674107210721
-    m_Hash: 2576504601
-=======
-      ticks: 637631679288634392
-    m_Hash: 2395146024
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
+      ticks: 637631682548926334
+    m_Hash: 975020335
   m_LockFileStatus:
     m_FilePath: C:/Projects/UnityProjects/BaseTemplateGameUnity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637631674107220701
-    m_Hash: 3324895573
-=======
-      ticks: 637631679288704256
-    m_Hash: 1823953434
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
+      ticks: 637631682548926334
+    m_Hash: 2995558851
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -35,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.burst@1.4.8
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.burst@1.4.8
       assetPath: Packages/com.unity.burst
       name: com.unity.burst
       displayName: Burst
@@ -244,7 +234,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.5
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.cinemachine@2.6.5
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.cinemachine@2.6.5
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -483,7 +473,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.0
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.formats.fbx@4.1.0
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.formats.fbx@4.1.0
       assetPath: Packages/com.unity.formats.fbx
       name: com.unity.formats.fbx
       displayName: FBX Exporter
@@ -852,17 +842,10 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.2
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.probuilder@4.5.2
-      assetPath: Packages/com.unity.probuilder
-      name: com.unity.probuilder
-      displayName: ProBuilder
-=======
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.polybrush@1.0.2
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.polybrush@1.0.2
       assetPath: Packages/com.unity.polybrush
       name: com.unity.polybrush
       displayName: Polybrush
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
       author:
         name: 
         email: 
@@ -937,7 +920,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.1
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.postprocessing@3.1.1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.postprocessing@3.1.1
       assetPath: Packages/com.unity.postprocessing
       name: com.unity.postprocessing
       displayName: Post Processing
@@ -1026,7 +1009,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.5.2
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.probuilder@4.5.2
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.probuilder@4.5.2
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
       displayName: ProBuilder
@@ -1166,7 +1149,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.0
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.remote-config@1.4.0
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.remote-config@1.4.0
       assetPath: Packages/com.unity.remote-config
       name: com.unity.remote-config
       displayName: Remote Config
@@ -1600,11 +1583,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.textmeshpro@3.0.4
-=======
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1761,21 +1740,12 @@ m_PackageAssets:
     - packageId: com.unity.ugui@1.0.0
       testable: 0
       isDirectDependency: 1
-<<<<<<< HEAD
-      version: 1.4.7
-      source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.timeline@1.4.7
-      assetPath: Packages/com.unity.timeline
-      name: com.unity.timeline
-      displayName: Timeline
-=======
       version: 1.0.0
       source: 2
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
       author:
         name: 
         email: 
@@ -3633,84 +3603,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-<<<<<<< HEAD
-    - packageId: com.unity.mathematics@1.1.0
-      testable: 0
-      isDirectDependency: 0
-      version: 1.1.0
-      source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.mathematics@1.1.0
-      assetPath: Packages/com.unity.mathematics
-      name: com.unity.mathematics
-      displayName: Mathematics
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Unity's C# SIMD math library providing vector types and math functions
-        with a shader like syntax.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
-        - 1.1.0
-        - 1.2.1
-        compatible:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
-        - 1.1.0
-        - 1.2.1
-        verified: 1.2.1
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636984649280000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git@github.com:Unity-Technologies/Unity.Mathematics.git
-        revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
-        path: 
-=======
->>>>>>> 928e25e9cf1d9580d68f8c52b0b5580ecde54b24
     - packageId: com.unity.render-pipelines.core@10.4.0
       testable: 0
       isDirectDependency: 0
@@ -4027,7 +3919,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -4159,7 +4051,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.2
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.timeline@1.5.2
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.timeline@1.5.2
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -4310,7 +4202,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.1.0
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.autodesk.fbx@4.1.0
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.autodesk.fbx@4.1.0
       assetPath: Packages/com.autodesk.fbx
       name: com.autodesk.fbx
       displayName: Autodesk FBX SDK for Unity
@@ -4391,7 +4283,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.2.1
       source: 1
-      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGame\Library\PackageCache\com.unity.mathematics@1.2.1
+      resolvedPath: C:\Projects\UnityProjects\BaseTemplateGameUnity\Library\PackageCache\com.unity.mathematics@1.2.1
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
